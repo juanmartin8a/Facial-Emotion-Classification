@@ -31,5 +31,9 @@ The dataset used to train the model was the data from the [Facial Expression Rec
 
   3. Run the program: `python test.py`.
 
+## Example Screenshot
+<img width="1440" alt="Screen Shot 2020-12-21 at 21 27 45 copy" src="https://github.com/user-attachments/assets/0d130ea1-d32c-4c77-a7b6-ce7f17bbf4a0">
+
+
 ## Disclaimer
 If I remember correctly, the code used to train the model was inspired by someone who competed in the challenge I just don't remember who was it and I also was not able find the code.
