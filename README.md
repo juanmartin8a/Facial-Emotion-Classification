@@ -1,4 +1,7 @@
 # Facial Emotion Recognition
+![Started](https://img.shields.io/badge/Started-Dec%202020-blue%20green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202021-blue.svg?color=informational)
+
 This Artificial Neural Network (ANN) can understand emotions from a face! :D
 
 ## Model
